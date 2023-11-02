@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Iot Project</string>
+    <string name="about">Cropguard is an IoT-based agriculture monitoring and analytics device that helps farmers make smarter decisions. Our sensors track vital crop data like soil moisture and temperature. This data is analyzed in real-time through our easy-to-use app, providing farmers with actionable insights to optimize crop health and yields. With Cropguard\'s innovative crop monitoring and data-driven recommendations, farmers can maximize profitability and join the agriculture revolution.</string>
+</resources>
